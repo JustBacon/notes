@@ -1,0 +1,9 @@
+CLI is a command line interface which shows all the files in text version
+GUI is graphic user interface which shows all the text version into picture where it is more computer friendly
+
+	Command:
+		cd ../  --> move up a folder
+		cd /  --> goes to the root folder
+		mkdir  --> create a folder
+		ls  --> shows a list of what is inside the folder
+		touch --> create a file
