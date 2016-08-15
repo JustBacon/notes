@@ -25,3 +25,16 @@ GUI is graphic user interface which shows all the text version into picture wher
 		git commit -m "this is my first commit for notes"
 		git push - upload to site
 Developer use Git to create
+	Programming language- more about function
+	market language- display of what is in the screen
+HTML (Hypertext markup language)
+	Tag:
+		<p></p> paragraph
+		<a href=""></a> closing
+		<header></header> navigation,Logo
+		<footer></footer> copyright
+		<div></div> block element,start new lines
+		<span></span> to style a part,inline element
+		<a></a> link
+		<img /> image
+		<! -- --> comment tag
