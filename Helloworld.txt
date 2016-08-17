@@ -38,3 +38,12 @@ HTML (Hypertext markup language)
 		<a></a> link
 		<img /> image
 		<! -- --> comment tag
+		<UL> - Unordered list
+			<li>
+		<OL> - order list
+	UX vs UI
+		UI - User Interface
+		UX - User Experience
+			HTML
+			Structure
+			Function
