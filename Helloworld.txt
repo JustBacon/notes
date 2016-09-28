@@ -49,4 +49,18 @@ HTML (Hypertext markup language)
 			Function
 
 CSS
-	
+
+Responsive Design
+	When page stays the same when window size change. Also known as fluid design.
+Grid design
+	Web design with grid content
+Media queries
+	use css to change according to resolution. Break points in CSS that tells your app to change according to screensize.
+EM in CSS
+	uses the browsers font size if there is no font size defined. Unit of measure in CSS that adjusts to parent times 150% Use em in responsive design and pixels on static pages\
+Pseudo class selectors
+	combine with css classes
+mobile design
+	Web app designed for mobile devices
+what makes it effective?
+	Media queries/simple to use
